@@ -63,6 +63,16 @@ namespace HyperRun.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap security_Shields_Blank_16xLG {
+            get {
+                object obj = ResourceManager.GetObject("security_Shields_Blank_16xLG", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap WindowsService_256x {
             get {
                 object obj = ResourceManager.GetObject("WindowsService_256x", resourceCulture);
