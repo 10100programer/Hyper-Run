@@ -27,7 +27,7 @@ namespace HyperRun
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            linkLabel1.Text = "";
+            linkLabel1.Text = "HyperRun V:"+ Assembly.GetExecutingAssembly().GetName().Version.ToString(); 
         }
 
         private void button2_Click(object sender, EventArgs e)
